@@ -5,11 +5,15 @@ h1 {
 
 body {
     margin: 0 200px;
+    background-color: #ffff9e;
 }
 
 img {
     display: block;
     margin: auto;
+    padding: 8px;
+    background-color: white;
+    border: 10px solid black;
 }
 
 .recipe-container {
