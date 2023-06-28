@@ -1,11 +1,11 @@
 h1 {
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
 }
 
 body {
     margin: 0 200px;
     background-color: #ffff9e;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 img {
