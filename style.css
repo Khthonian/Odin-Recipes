@@ -12,7 +12,7 @@ img {
     display: block;
     margin: auto;
     padding: 8px;
-    background-color: white;
+    background-color: #FFFF6B;
     border: 10px solid black;
 }
 
@@ -33,4 +33,10 @@ img {
 
 .recipe a:hover, .recipe a:active {
     color: blue;
+}
+
+.description-box, .ingredients-box, .steps-box {
+    margin: 10px;
+    padding: 0.5px 10px;
+    background-color: #9E9EFF;
 }
